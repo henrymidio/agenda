@@ -1,0 +1,23 @@
+[30-Jun-2016 15:18:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/cardapp/public_html/agenda/application/controllers/Contatos.php on line 14
+[30-Jun-2016 15:20:43 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/cardapp/public_html/agenda/application/controllers/Contatos.php on line 14
+[30-Jun-2016 15:27:09 UTC] PHP Fatal error:  Cannot redeclare class Contatos in /home/cardapp/public_html/agenda/application/models/Crud_model.php on line 11
+[30-Jun-2016 15:27:27 UTC] PHP Fatal error:  Cannot redeclare class Contatos in /home/cardapp/public_html/agenda/application/models/Crud_model.php on line 11
+[30-Jun-2016 15:27:28 UTC] PHP Fatal error:  Cannot redeclare class Contatos in /home/cardapp/public_html/agenda/application/models/Crud_model.php on line 11
+[30-Jun-2016 15:27:40 UTC] PHP Fatal error:  Cannot redeclare class Contatos in /home/cardapp/public_html/agenda/application/models/Crud_model.php on line 11
+[30-Jun-2016 15:31:29 UTC] PHP Fatal error:  Cannot redeclare class Contatos in /home/cardapp/public_html/agenda/application/models/Crud_model.php on line 11
+[30-Jun-2016 15:47:10 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/cardapp/public_html/agenda/application/views/Home.php on line 64
+[30-Jun-2016 16:30:07 UTC] PHP Fatal error:  Call to undefined function elements() in /home/cardapp/public_html/agenda/application/controllers/Contatos.php on line 16
+[30-Jun-2016 17:59:55 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/cardapp/public_html/agenda/application/controllers/Contatos.php on line 31
+[30-Jun-2016 18:00:51 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/cardapp/public_html/agenda/application/controllers/Contatos.php on line 35
+[30-Jun-2016 18:02:04 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/cardapp/public_html/agenda/application/controllers/Contatos.php on line 35
+[30-Jun-2016 19:24:05 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/cardapp/public_html/agenda/application/views/Home.php on line 35
+[30-Jun-2016 19:38:21 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/cardapp/public_html/agenda/application/views/Home.php on line 35
+[30-Jun-2016 19:38:46 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/cardapp/public_html/agenda/application/views/Home.php on line 35
+[30-Jun-2016 19:42:15 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/cardapp/public_html/agenda/application/views/Home.php on line 35
+[30-Jun-2016 19:42:47 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/cardapp/public_html/agenda/application/views/Home.php on line 35
+[30-Jun-2016 21:20:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/cardapp/public_html/agenda/application/controllers/Contatos.php on line 31
+[30-Jun-2016 21:20:29 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/cardapp/public_html/agenda/application/controllers/Contatos.php on line 35
+[30-Jun-2016 22:59:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/cardapp/public_html/agenda/application/views/Home.php on line 15
+[30-Jun-2016 23:00:53 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/cardapp/public_html/agenda/application/views/Home.php on line 15
+[01-Jul-2016 02:12:32 UTC] PHP Parse error:  syntax error, unexpected '$dados' (T_VARIABLE) in /home/cardapp/public_html/agenda/application/controllers/Contatos.php on line 23
+[01-Jul-2016 02:12:45 UTC] PHP Parse error:  syntax error, unexpected '$dados' (T_VARIABLE) in /home/cardapp/public_html/agenda/application/controllers/Contatos.php on line 23
